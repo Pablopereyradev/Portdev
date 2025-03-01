@@ -103,7 +103,7 @@ textarea {
     top: calc(100% + 1.5rem);
     height: 5px;
     width: 3rem;
-    background: #FF5501;
+    background: #1649FF;
     left: 50%;
     transform: translateX(-50%);
     border-radius: 8px; }
@@ -137,7 +137,7 @@ textarea {
   width: 92%; }
 
 .btn {
-  background: #FF5501;
+  background: #3982d9;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -156,12 +156,12 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #FF5501;
+    background: #1649FF;
     color: #fff; }
   .btn--theme-inv {
-    color: #FF5501;
+    color: #1649FF;
     background: #fff;
-    border: 2px solid #FF5501;
+    border: 2px solid #1649FF;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
 
@@ -186,7 +186,7 @@ textarea {
 
 .home-hero {
   color: #000;
-  background: linear-gradient(to right, rgba(231, 231, 231, 0.8), rgba(231, 231, 231, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(241, 239, 231, 0.8), rgba(241, 239, 231, 0.8)), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -224,7 +224,7 @@ textarea {
     padding: 1rem;
     transition: all .3s ease; }
     .home-hero__social-icon-link:hover {
-      background: rgba(255, 85, 1, 0.2);
+      background: rgba(22, 73, 255, 0.2);
       border-radius: 8px; }
     .home-hero__social-icon-link--bd-none {
       border-bottom: 0; }
@@ -332,7 +332,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background: linear-gradient(to right, rgba(255, 85, 1, 0.8), rgba(255, 85, 1, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(22, 73, 255, 0.8), rgba(22, 73, 255, 0.8)), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center; }
   .contact__form-container {
@@ -414,7 +414,7 @@ textarea {
 
 .project-cs-hero {
   color: #000;
-  background: linear-gradient(to right, rgba(231, 231, 231, 0.8), rgba(231, 231, 231, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(241, 239, 231, 0.8), rgba(241, 239, 231, 0.8)), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -525,14 +525,14 @@ textarea {
     color: #333;
     transition: color .3s; }
     .header__logo-container:hover {
-      color: #FF5501; }
+      color: #1649FF; }
   .header__logo-img-cont {
     width: 5rem;
     height: 5rem;
     border-radius: 50px;
     overflow: hidden;
     margin-right: 1.5rem;
-    background: #FF5501; }
+    background: #1649FF; }
     @media only screen and (max-width: 56.25em) {
       .header__logo-img-cont {
         width: 4.5rem;
@@ -564,7 +564,7 @@ textarea {
     font-weight: 700;
     transition: color .3s; }
     .header__link:hover {
-      color: #FF5501; }
+      color: #1649FF; }
     @media only screen and (max-width: 56.25em) {
       .header__link {
         padding: 3rem 1.8rem;
@@ -611,7 +611,7 @@ textarea {
     letter-spacing: 2px;
     transition: color .3s; }
     .header__sm-menu-link a:hover {
-      color: #FF5501; }
+      color: #1649FF; }
   .header__sm-menu-link:first-child a {
     border-top: 1px solid #eee; }
   .header__sm-menu-link-last {
